@@ -16,12 +16,11 @@ window.SITE = {
   },
 
   // ---- Basics ------------------------------------------------------------
-  name: "Your Name",
-  title: "Software Engineer",
-  tagline: "I build clean, reliable software and enjoy turning ideas into products.",
-  photo: "",                  // e.g. "assets/me.jpg" — leave "" to show your initials
-  location: "City, Country",
-  email: "you@example.com",
+  name: "Ethan Lee",
+  title: "Mechanical Engineer",
+  tagline: " "",                  // e.g. "assets/me.jpg" — leave "" to show your initials
+  location: "Austin, TX",
+  email: "ethan.lee@utexas.edu",
   resumePdf: "",              // e.g. "assets/resume.pdf" — adds a "Download résumé" button
 
   // Social links: remove any you don't use, or add more with a label + url.

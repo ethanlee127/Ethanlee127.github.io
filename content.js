@@ -25,8 +25,8 @@ window.SITE = {
 
   // Social links: remove any you don't use, or add more with a label + url.
   links: [
-    { label: "GitHub",   url: "https://github.com/yourname" },
-    { label: "LinkedIn", url: "https://linkedin.com/in/yourname" },
+    { label: "GitHub",   url: "https://github.com/ethanlee127" },
+    { label: "LinkedIn", url: "https://linkedin.com/in/ethantranglee" },
   ],
 
   // ---- About -------------------------------------------------------------
